@@ -1,2 +1,9 @@
 # odin-recipes
-Odin html practice - odin recipe
+# First html webpage task from TOP : 
+## Objective : 
+
+## Things learned in this task :
+- Basic HTML headings 
+- Hyperlinks text
+- Adding image 
+#
