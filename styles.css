@@ -1,0 +1,27 @@
+/* styles.css */
+
+.alert-text {
+    color: red;
+  }
+
+
+div {
+    color: white;
+    background-color: black;
+  }
+  
+  p {
+    color: red;
+  }
+
+.myheading {
+    color:cadetblue;
+    font-family: monospace,serif;
+    font-size: large;
+    font-weight: 600;
+}
+.mylist {
+    color:darkmagenta;
+    background-color: transparent;
+
+}
